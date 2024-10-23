@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <div>
-
-    </div>
+    <main>
+      <p>Texto de teste</p>
+    </main>
   );
 }
